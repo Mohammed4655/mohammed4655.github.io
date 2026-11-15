@@ -1,0 +1,46 @@
+[
+    {
+        "category": "Data Analytics & BI",
+        "skills": [
+            "Power BI",
+            "SQL",
+            "Python",
+            "Excel",
+            "DAX",
+            "Power Query",
+            "Pandas",
+            "NumPy",
+            "Data Visualization"
+        ]
+    },
+    {
+        "category": "AI & Machine Learning",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Scikit-learn",
+            "TensorFlow",
+            "XGBoost"
+        ]
+    },
+    {
+        "category": "Development & Tools",
+        "skills": [
+            "Git",
+            "GitHub",
+            "Streamlit",
+            "FastAPI",
+            "Jupyter Notebook"
+        ]
+    },
+    {
+        "category": "Data Management",
+        "skills": [
+            "SQL Server",
+            "PostgreSQL",
+            "Data Modeling",
+            "Data Cleaning",
+            "Data Management"
+        ]
+    }
+]

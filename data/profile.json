@@ -1,0 +1,32 @@
+
+{
+    "name": "Mohammed Ali Alharbi",
+
+    "title": "Data Science Graduate",
+
+    "about": "A Data Science graduate with a strong interest in Data Analytics, Business Intelligence, Artificial Intelligence, and Machine Learning. Passionate about transforming data into meaningful insights, solving real-world problems, and building intelligent solutions.",
+
+    "education": {
+        "degree": "Bachelor of Science in Data Science",
+        "university": "University of Jeddah",
+        "graduationYear": "2026",
+        "gpa": "4.76 / 5",
+        "honors": "First Class Honors"
+    },
+
+    "experience": [
+        {
+            "title": "IT Intern",
+            "organization": "Ministry of Justice",
+            "date": "June 2025 - August 2025",
+            "description": "Cooperative training focused on IT support, database management, SQL Server, data analysis, and Power BI dashboards."
+        }
+    ],
+
+    "links": {
+        "github": "https://github.com/Mohammed4655",
+        "linkedin": "https://www.linkedin.com/in/mohammed-alharbi-cdmp%C2%AE-ba0730326/",
+        "email": "mohammad.ali.a.alharbi@gmail.com",
+        "cv": "assets/documents/Mohammed_Alharbi_CV..pdf"
+    }
+}
